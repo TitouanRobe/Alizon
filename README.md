@@ -5,9 +5,9 @@ Ce projet consiste à créer une marketplace de produits bretons, la méthode SC
 
  ## Technologies Utilisées
 
-Front-end : HTML, CSS, JavaScript.
-Back-end : PHP.
-Base de Données : MySQL.
+- Front-end : HTML, CSS, JavaScript.
+- Back-end : PHP.
+- Base de Données : MySQL.
 
 ## Fonctionnalités 
 
